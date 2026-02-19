@@ -6,7 +6,7 @@ Machine Learning based crop recommedation system that  predicts the crop based o
 ## 📌 Project Overview
 This Crop Recommendation System uses Machine Learning to help farmers and agricultural planners choose the most suitable crop to cultivate based on inputs like nitrogen, phosphorus, potassium, temperature, humidity, pH, and rainfall.
 
-### 🔗 Live App: https://crop-predictor-system.streamlit.app/
+### 🔗 Live App: https://smart-crop-recommendation-sys.streamlit.app/
 
 ### 📊 Dataset: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 
